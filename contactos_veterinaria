@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Conctato</title>
+</head>
+<body>
+    <h1>contactanos</h1>
+    <header>
+        <nav>
+            <ul style="color: blue;">
+                <li><a href="http://funciones.html">funciones</a></li>
+                <li><a href="privacidad.html">privacidad</a></li>
+                <li><a href="centro de ayuda.html">centro de ayuda</a></li>
+                <li><a href="blog.html">blog</a></li>
+            </ul>
+        </nav>
+        <h2>whatsApp</h2>
+        <tr>
+            <td><a href="https://web.whatsapp.com">veterinaria</a></td>
+        </tr>
+        <p>¿aun no tienes whatsApp?</p>
+        <a href="https://www.whatsapp.com/download?lang=es_LA">Descargar</a>
+
+    <footer>
+        <ul style="color: chartreuse;"></ul>
+        <li><a href="http://lo que hacemos.html">lo que hacemos</a></li>
+        <li><a href="http://quienes somos.html">quienes somos</a></li>
+        <li><a href="usa whatsAPP.html">usa whatsapp</a></li>
+        <li><a href="ayuda.html">¿nesecitas ayuda?</a></li>
+        <p>&copy;veterinaria 2024</p>
+    </footer>
+
+    </header>
+    
+</body>
+</html>
